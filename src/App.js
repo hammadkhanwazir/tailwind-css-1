@@ -48,7 +48,7 @@ const App = () => {
                 </span>
                 <div id="myNav" className="overlay" style={{ width: width }}>
                   <a
-                    href="javascript:void(0)"
+                    href="/#"
                     className="closebtn"
                     onClick={() => close()}
                   >
