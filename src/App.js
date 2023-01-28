@@ -55,10 +55,10 @@ const App = () => {
                     &times;
                   </a>
                   <div className="overlay-content flex lg:text-4xl xl:text-4xl md:text-2xl text-xl flex-col justify-center items-center">
-                    <a href="#">About</a>
-                    <a href="#">Services</a>
-                    <a href="#">Clients</a>
-                    <a href="#">Contact</a>
+                    <a href="/#">About</a>
+                    <a href="/#">Services</a>
+                    <a href="/#">Clients</a>
+                    <a href="/#">Contact</a>
                   </div>
                 </div>
               </div>
